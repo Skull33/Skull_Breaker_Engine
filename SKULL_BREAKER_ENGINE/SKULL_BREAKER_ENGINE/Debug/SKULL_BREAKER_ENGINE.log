@@ -1,0 +1,7 @@
+﻿  Main.cpp
+E:\Skull Breaker\SKULL_BREAKER_ENGINE\SKULL_BREAKER_ENGINE\Main.cpp(42,58): warning C4244: 'argumento': conversión de 'float' a 'Uint8'; posible pérdida de datos
+E:\Skull Breaker\SKULL_BREAKER_ENGINE\SKULL_BREAKER_ENGINE\Main.cpp(42,52): warning C4244: 'argumento': conversión de 'const float' a 'Uint8'; posible pérdida de datos
+E:\Skull Breaker\SKULL_BREAKER_ENGINE\SKULL_BREAKER_ENGINE\Main.cpp(42,45): warning C4244: 'argumento': conversión de 'const float' a 'Uint8'; posible pérdida de datos
+E:\Skull Breaker\SKULL_BREAKER_ENGINE\SKULL_BREAKER_ENGINE\Main.cpp(42,39): warning C4244: 'argumento': conversión de 'const float' a 'Uint8'; posible pérdida de datos
+Main.obj : error LNK2019: símbolo externo _SDL_main sin resolver al que se hace referencia en la función _wWinMain@16
+E:\Skull Breaker\SKULL_BREAKER_ENGINE\Debug\SKULL_BREAKER_ENGINE.exe : fatal error LNK1120: 1 externos sin resolver
